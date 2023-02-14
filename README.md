@@ -19,3 +19,8 @@ ready:
 devtools::install_github("wfinsinger/tapas")
 ```
 
+- Install the 'ggplot2' package
+
+``` r
+install.packages('ggplot2')
+```
