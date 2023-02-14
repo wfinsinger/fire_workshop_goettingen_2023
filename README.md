@@ -13,6 +13,9 @@ ready:
   - RStudio Desktop (https://posit.co/downloads/).
 
 - Install the 'tapas' R package from Rstudio's command line:
-library(devtools)
+
+``` r
+# library(devtools)
 devtools::install_github("wfinsinger/tapas")
+```
 
