@@ -1,4 +1,4 @@
-# fire_workshop_goettingen_2023
+# Fire workshop (Göttingen, 2023)
 
 Files and R code for the "Long-term fire-vegetation change: data-based challenges" workshop (February 2023, Göttingen, Germany)
 
