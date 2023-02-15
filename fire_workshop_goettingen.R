@@ -20,11 +20,11 @@
 # existing stand-alone functions.
 
 
-# In this tutorial, you'll be using the macroscopic charcoal record from
-# Code Lake (Higuera et al., 2009). Please be aware that the tutorial shows
-# how the tapas package performs the peak-detection analysis with this data set
-# using different options than those chosen by Higuera et al. (2009).
-
+# In this tutorial, you'll be using several toy data sets.
+# One among them is the macroscopic charcoal record from Code Lake
+# (Higuera et al., 2009). Please be aware that the tutorial shows how the
+# tapas package performs the peak-detection analysis with this data set using
+# different options compared to those chosen by Higuera et al. (2009).
 # Specifically, the tutorial uses the so-called 'global' threshold rather than
 # the so-called 'local threshold'. However, the tapas package also allows
 # performing the anlysis with the so-called 'local' threshold, as does
@@ -47,6 +47,7 @@ library(ggplot2) # additionally load the ggplot package
 
 
 # 2. Load the toy data that comes with the 'tapas' package --------------------
+
 # There are 4 toy data sets:
 co <- tapas::co_char_data
 rdn <- tapas::red_noise
